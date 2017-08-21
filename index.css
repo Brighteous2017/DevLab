@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.container-fluid {
+  position: relative;
+  padding: 0;
+  margin: 0;
+  background-image: url(img/devlab.jpg);
+  background: linear-gradient(rgba(26, 26, 26, 0.7), rgba(26, 26, 26, 0.7)), url(img/devlab.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 900px;
+
+}
+
+#title {
+  color: white;
+  font-weight: bold;
+}
+
+#col1 {
+  color: white;
+}
+.name1 {
+  margin-left: 280px;
+}
+#col2 {
+  color: white;
+  left: 150px;
+}
+.other {
+  margin-left: 40px;
+}
