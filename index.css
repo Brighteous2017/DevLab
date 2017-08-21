@@ -33,3 +33,9 @@ body {
 .other {
   margin-left: 40px;
 }
+form#a {
+  display: none;
+}
+form#b {
+  display: none;
+}
